@@ -17,7 +17,7 @@ description: Hi! I'm a junior student with joint major in computer science and d
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: /weekly/images/lu.JPG 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -32,12 +32,12 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: yz8988@nyu.edu
   facebook:
   flickr:
-  github: ossd-s25
+  github: https://ossd-s25.github.io/LuluZhuu-weekly
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/luluzhuu
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -57,7 +57,7 @@ url: "https://ossd-s25.github.io/weekly"
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/LuluZhuu-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
