@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 |     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Shanghai_Pinghe_School&oldid=1278547637)    |  Wikipedia   | I add an internal wikilink to Advanced Placement.     |
 |  Mar 5   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Shanghai_Southwest_Weiyu_Middle_School&oldid=1278945301)   | Wikipedia    | I add an internal wikilink to United States.     |
 |  Mar 5   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Red_braised_pork_belly&oldid=1278965656)   | Wikipedia    | I add a paragraph describing the cuisine in Shanghai.     |
+|  Mar 5   | [link to my contribution](https://www.openstreetmap.org/changeset/163261535)   | OpenStreetMap    | I add a building name for a newly-built apartment.     |
