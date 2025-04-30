@@ -27,3 +27,13 @@ Replace the first row with your own contribution.
 |  Mar 5   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Shanghai_Southwest_Weiyu_Middle_School&oldid=1278945301)   | Wikipedia    | I add an internal wikilink to United States.     |
 |     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Red_braised_pork_belly&oldid=1278965656)   | Wikipedia    | I add a paragraph describing the cuisine in Shanghai.     |
 |     | [link to my contribution](https://www.openstreetmap.org/changeset/163261535)   | OpenStreetMap    | I add a building name for a newly-built apartment.     |
+|  April 17th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Shanghai_Shenhua_F.C.&oldid=1286086743)   | Wikipedia    | Add a link for 2004 Chinese Super League.    |
+|     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Qingtuan&oldid=1286087490)   | Wikipedia    | Add a paragraph introducing the contemporary tastes of Qingtuan.    |
+|     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Peking_duck&oldid=12860881220)   | Wikipedia    | Add some restaurants that specialize in Peking duck    |
+|     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Crossing-the-bridge_noodles&oldid=1286091668)   | Wikipedia    | Revised two unsourced citation to be sourced as required   |
+|  April 19th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Zongzi&oldid=1286402469)   | Wikipedia    | Add a Shanghai cuisine of Zongzi in variations part   |
+|     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Mooncake&oldid=1286404261)   | Wikipedia    | add a link for ice-cream  |
+|  April 27th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Xiaolongbao&oldid=1287690084)   | Wikipedia    | Add a paragraph of the recent popular tastes of buns   |
+|  April 29th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Tangyuan_(food)&oldid=1288023488)   | Wikipedia    | Add a link for the ingredients of Tangyuan   |
+|     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Tangyuan_(food)&oldid=1288024280)   | Wikipedia    | Add a citation for a paragraph  |
+
