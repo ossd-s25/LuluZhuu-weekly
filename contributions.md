@@ -34,6 +34,9 @@ Replace the first row with your own contribution.
 |  April 19th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Zongzi&oldid=1286402469)   | Wikipedia    | Add a Shanghai cuisine of Zongzi in variations part   |
 |     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Mooncake&oldid=1286404261)   | Wikipedia    | add a link for ice-cream  |
 |  April 27th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Xiaolongbao&oldid=1287690084)   | Wikipedia    | Add a paragraph of the recent popular tastes of buns   |
+|     | [link to my contribution](https://github.com/microsoft/autogen/pull/6412)   | Github Code    | Fix: Reduce multiple H1s to H2s in Distributed Agent Runtime page   |
+|  April 28th   | [link to my contribution](https://github.com/microsoft/autogen/pull/6420/commits)   | Github Code   | Add Core API sample with chainlit by making commit |
 |  April 29th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Tangyuan_(food)&oldid=1288023488)   | Wikipedia    | Add a link for the ingredients of Tangyuan   |
 |     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Tangyuan_(food)&oldid=1288024280)   | Wikipedia    | Add a citation for a paragraph  |
+|  May 1st   | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/60117)   | Github Code    | fix(curriculum): Create set 2 of questions for CSS Animations quiz for [freeCodeCamp](https://github.com/freeCodeCamp)  |
 
