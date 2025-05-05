@@ -39,5 +39,5 @@ Replace the first row with your own contribution.
 |  April 29th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Tangyuan_(food)&oldid=1288023488)   | Wikipedia    | Add a link for the ingredients of Tangyuan   |
 |     | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Tangyuan_(food)&oldid=1288024280)   | Wikipedia    | Add a citation for a paragraph  |
 |  May 1st   | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/60117)   | Github Code    | fix(curriculum): Create set 2 of questions for CSS Animations quiz for [freeCodeCamp](https://github.com/freeCodeCamp)  |
-|  May 2nd   | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/60136)   | Github Code    | fix(curriculum): Equal cat painting for [freeCodeCamp](https://github.com/freeCodeCamp)  |
+|  May 2nd   | [link to my contribution](https://github.com/freeCodeCamp/freeCodeCamp/pull/60136)   | Github Code    | fix(curriculum): Equal cat painting for [freeCodeCamp](https://github.com/freeCodeCamp) (Merged) |
 |  May 4th   | [link to my contribution](https://en.wikipedia.org/w/index.php?title=Double_skin_milk&oldid=1288818934)   | Wikiipedia    | Add a link for Guangdong province  |
